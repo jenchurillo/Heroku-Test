@@ -122,8 +122,8 @@
                 <assembleDirectory>target</assembleDirectory>
                 <programs>
                     <program>
-                        <mainClass>assignment.main</mainClass>
-                        <name>webapp</name>
+                        <mainClass>assignment</mainClass>
+                        <name>carePlan</name>
                     </program>
                 </programs>
             </configuration>
