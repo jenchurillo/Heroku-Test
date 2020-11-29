@@ -122,7 +122,7 @@
                 <assembleDirectory>target</assembleDirectory>
                 <programs>
                     <program>
-                        <mainClass>assignment.carePlan</mainClass>
+                        <mainClass>assignment.main</mainClass>
                         <name>carePlan</name>
                     </program>
                 </programs>
