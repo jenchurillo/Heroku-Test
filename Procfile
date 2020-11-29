@@ -1,1 +1,1 @@
-web: sh target/bin/carePlan
+web: sh target/bin/main
